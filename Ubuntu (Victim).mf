@@ -1,0 +1,2 @@
+SHA1(Ubuntu (Victim).ovf)= be87a09702151b2fef9542858dca4d3eceb60092
+SHA1(Ubuntu_(Victim)-disk1.vmdk)= 857dfc4c01732c214758d18d3ddf965ec23de4fd

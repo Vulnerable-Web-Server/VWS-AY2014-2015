@@ -1,0 +1,2 @@
+SHA1(Kali Linux (Attacker).ovf)= dae79c98d97cafe6caca96c0e5d4cb3ced887282
+SHA1(Kali_Linux_(Attacker)-disk1.vmdk)= 4b8185d1d3e1dedd97619bc34f42eaa79ffa160c
